@@ -1,9 +1,9 @@
 /***************************************************************************************************************************
 
-  Algorithm to impute missing geographic information of priority filings by inventors from subsequent filings
+  Algorithm to impute missing geographic information of first filings by inventors from subsequent filings
   
   This code builds on the work of: G. de Rassenfosse (University of Melbourne, Australia)
-  It was written by Florian Seliger in February 2019 using PostgreSQL and Patstat Autumn 2016.
+  It was written by Florian Seliger in February 2019 using PostgreSQL and Patstat Spring 2019 (and location information from Patstat Autumn 2016).
 
   Please acknowledge the work and cite the companion papers:
   - de Rassenfosse, G., Dernis, H., Guellec, D., Picci, L., van Pottelsberghe de la Potterie, B., 2013. 
@@ -12,8 +12,8 @@
   
   Florian Seliger would like to thank Charles Clavadetscher (KOF ETHZ) and Matthias Bannert (KOF ETHZ) for their help.
 
-  Description : PostgreSQL code to impute missing geographic information (coordinates) for priority filings based on the inventor criterion. 
-  When the information on inventors' coordinates is missing, the algorithm looks into direct equivalents and other subsequent filings for the information. 
+  Description : PostgreSQL code to impute missing geographic information (coordinates, city and regional information) for first filings based on the inventor criterion. 
+  When the information on inventors' locations is missing, the algorithm looks into direct equivalents and other subsequent filings for the information. 
   Information can also be retrieved from applicants' location.
 
 
