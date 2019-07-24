@@ -2,7 +2,7 @@
 -- Florian Seliger, ETH Zurich, July 2019, seliger@kof.ethz.ch
 -- In this code, we build a bridge file in order to assign any patent number to its "first patent filing" (that can be identified in PATSTAT).
 -- We run this code on PATSTAT Spring 2019.
--- For details, see de Rassenfosse, Kozak, Seliger 2019: Geocoding of worldwide patent data. Section "Usage Notes".
+-- For details, see de Rassenfosse, Kozak, Seliger 2019: Geocoding of worldwide patent data, available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3425764 Section "Usage Notes".
 -- We first insert all Paris Convention priority and subsequent filings, then all filings referring to PCT applications, continuals and technical relationships.
 -- Finally, we insert singletons (there are no subsequent filings for singletons). 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
