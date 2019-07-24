@@ -6,8 +6,7 @@
   It was written by Florian Seliger (ETH Zurich, seliger@kof.ethz.ch) in July 2019 using PostgreSQL and Patstat Spring 2019 (location information comes from Patstat Autumn 2016).
   
   For details, please read the following paper carefully:
-  de Rassenfosse, G., Kozak, J., Seliger, F., 2019. Geocoding of worldwide patent data. 
-  Available here:
+  de Rassenfosse, Kozak, Seliger 2019: Geocoding of worldwide patent data, available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3425764
 
   Please acknowledge the work and cite the companion papers:
   - de Rassenfosse, G., Dernis, H., Guellec, D., Picci, L., van Pottelsberghe de la Potterie, B., 2013. 
