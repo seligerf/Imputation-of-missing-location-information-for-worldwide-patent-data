@@ -5,14 +5,10 @@
   This code builds on the work of: G. de Rassenfosse (EPFL Switzerland)
   It was written by Florian Seliger (ETH Zurich, seliger@kof.ethz.ch) in July 2019 using PostgreSQL and Patstat Spring 2019
  
-  Please acknowledge the work and cite the companion paper:
-  de Rassenfosse, G., Dernis, H., Guellec, D., Picci, L., van Pottelsberghe de la Potterie, B., 2013. 
-  The worldwide count of priority patents: A new indicator of inventive activity. Research Policy
- 
   Please acknowledge the work and cite the companion papers:
   - de Rassenfosse, G., Dernis, H., Guellec, D., Picci, L., van Pottelsberghe de la Potterie, B., 2013. 
     The worldwide count of priority patents: A new indicator of inventive activity. Research Policy
-  - de Rassenfosse, G., Kozak, J., Seliger, F., 2019. Geocoding of worldwide patent data. Manuscript
+  - de Rassenfosse, Kozak, Seliger 2019: Geocoding of worldwide patent data, available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3425764
    
   Florian Seliger would like to thank Charles Clavadetscher (KOF ETHZ) and Matthias Bannert (KOF ETHZ) for their help.
  
