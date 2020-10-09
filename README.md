@@ -9,6 +9,6 @@ We provide three pieces of SQL code:
 3) first_and_subsequent_filings.sql: Builds table in order to assign any patent number to its "first patent filing". It can be run with PATSTAT Spring 2019.
 
 A detailed data description can be found in
-de Rassenfosse, Kozak, Seliger 2019: Geocoding of worldwide patent data, available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3425764
+de Rassenfosse, Kozak, Seliger 2019: Geocoding of worldwide patent data, Scientific Data, 6, available at https://www.nature.com/articles/s41597-019-0264-6
 Please make sure to cite the paper in your work.
   
